@@ -1,0 +1,45 @@
+.main {
+  height: 880px;
+  width: 620px;
+  border: 2px solid rgb(24, 144, 188);
+  margin: auto;
+  padding-left: 20px;
+}
+.first-box {
+  width: 600px;
+  height: 190px;
+  margin-left: 10px;
+  margin-top: 10px;
+  flex-shrink: 0;
+  border: 2px solid rgb(197, 47, 47);
+}
+.text {
+  color: #000;
+}
+img {
+  height: 300px;
+  width: 400px;
+}
+.more-images {
+  text-decoration: underline;
+}
+.trivia {
+  text-decoration: underline;
+}
+strong {
+  color: #000;
+  font-style: normal;
+  line-height: normal;
+}
+.trivia-text {
+  border: 2px solid rgb(221, 95, 198);
+  height: 180px;
+  width: 600px;
+}
+.main-text {
+  border: 2px solid rgb(221, 95, 198);
+  margin-top: 10px;
+  height: 230px;
+  width: 585px;
+  padding-left: 10px;
+}
